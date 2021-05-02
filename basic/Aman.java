@@ -7,6 +7,7 @@ public interface Aman {
 	public default void girlFriendSister(){
 		System.out.println("girlFriendSister of Aman");
 	}
+//aman
 	
 	public static void girlFriendColour(){
 		System.out.println("girlFriend Color is light yellow  (Aman)");
