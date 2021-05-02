@@ -22,7 +22,7 @@ public class MultipleInh implements Aman,Raman{
 		System.out.println(m.girlFriend());
 		m.girlFriendSister();
 		m.girlFriendColour();
-//
+//iam 
 	}
 
 }
