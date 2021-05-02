@@ -2,6 +2,7 @@ package com.basic;
 
 public interface Aman {
 	
+	//Ex
 	public String girlFriend();
 	
 	public default void girlFriendSister(){
